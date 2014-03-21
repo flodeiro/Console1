@@ -6,16 +6,7 @@ using System.Threading.Tasks;
 
 namespace ConsoleApplication1
 {
-    class Program
+    class Class1
     {
-        static void Main(string[] args)
-        {
-            //console creation
-
-          //master
-
-            //feature 1.2.5
-
-        }
     }
 }
