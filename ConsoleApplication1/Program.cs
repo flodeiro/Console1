@@ -12,11 +12,7 @@ namespace ConsoleApplication1
         {
             //console creation
 
-            //change 1
-
-            //added feature 1.2
-
-            //added feature 1.3
+          //master
 
         }
     }
